@@ -2,5 +2,5 @@
 
 The-Best-Deal where the cheapest and Expensive modules return a String
 
-![](img/img.png)
+![](TheBestDeal/img/img.png)
 ----------------------------------------------------------------------
